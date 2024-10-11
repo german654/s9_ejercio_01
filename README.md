@@ -23,7 +23,7 @@ Un IDE compatible (como Android Studio, VS Code, o IntelliJ IDEA)
 1. Clona este repositorio en tu máquina local:
 
    ```bash
-   git clone https://github.com/tu-usuario/s9_ejercicio_01.git
+   git clone https://github.com/german654/s9_ejercio_01.git
    ```
 
 Navega al directorio del proyecto:
